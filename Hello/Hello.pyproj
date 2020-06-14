@@ -41,7 +41,6 @@
     <Folder Include="Hello\templates\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="requirements.txt" />
     <Content Include="Hello\static\content\bootstrap.css" />
     <Content Include="Hello\static\content\bootstrap.min.css" />
     <Content Include="Hello\static\content\site.css" />
